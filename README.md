@@ -94,22 +94,14 @@ graph LR
   FOLLOW -->|lap done| STOP
 ```
 </details>
-
 ---
 
-## 7 · Roadmap / TODO
-- [ ] Split image‑processing into standalone ROS nodes  
-- [ ] Add GitHub Actions CI (`rostest`)  
-- [ ] Provide Docker image for one‑command demo  
-
----
-
-## 8 · License
+## 7 · License
 MIT License — see `LICENSE`.
 
 ---
 
-## 9 · Acknowledgements
+## 8 · Acknowledgements
 Developed for *Computational Robotics* @ **Insper University** — thanks to Prof. Rodolfo Braga and the teaching staff for guidance and assets.
 
 ---

@@ -94,16 +94,10 @@ graph LR
   FOLLOW -->|lap done| STOP
 ```
 </details>
----
-
-## 7 · License
-MIT License — see `LICENSE`.
 
 ---
 
-## 8 · Acknowledgements
+## 7 · Acknowledgements
 Developed for *Computational Robotics* @ **Insper University** — thanks to Prof. Rodolfo Braga and the teaching staff for guidance and assets.
 
 ---
-
-> *Open to issues and pull requests!* 🚀
